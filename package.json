@@ -1,0 +1,32 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "base-x": "^3.0.4",
+    "bigchaindb-driver": "^4.1.0",
+    "bigchaindb-orm": "^3.0.3",
+    "bip39": "^2.5.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuxman/bigchainDB-examples.git"
+  },
+  "author": "Tuxman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuxman/bigchainDB-examples/issues"
+  },
+  "homepage": "https://github.com/Tuxman/bigchainDB-examples#readme"
+}
